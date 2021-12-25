@@ -7,6 +7,6 @@
 </ul>
 <ul>
     <li>
-        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-01">Lesson 01</a> [Обєкти, функції, обробка exception]</li>
+        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-02">Lesson 02</a> [Обєкти, функції, обробка exception]</li>
     
 </ul>
