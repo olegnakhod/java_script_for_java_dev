@@ -7,5 +7,7 @@
         <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-02">Lesson 02</a> [Обєкти, функції, обробка exception]</li>
     <li>
         <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-03">Lesson 03</a> [Масиви (Arrays)]</li>   
+    <li>
+        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-04">Lesson 04</a> [Методи масивів, параметри функцій]</li>   
     
 </ul>
