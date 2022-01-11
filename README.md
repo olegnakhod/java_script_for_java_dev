@@ -10,6 +10,7 @@
     <li>
         <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-04">Lesson 04</a> [Методи масивів, параметри функцій]</li>   
      <li>
-        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-05">Lesson 05</a> [Замикання, модуль]</li>   
-    
+        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-05">Lesson 05</a> [Замикання, модуль]</li>
+    <li>
+        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-06">Lesson 06</a> [Функціональний та прототипний стиль ООП]</li>       
 </ul>
