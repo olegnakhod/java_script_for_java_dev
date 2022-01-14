@@ -26,6 +26,7 @@ function addElement() {
 
 function changeElement() {
     let elementsWithLinks = document.getElementById('exerciceTwo').querySelectorAll("a");
+    
     for (let i = 0; i < elementsWithLinks.length; i++) {
         let currentElement = elementsWithLinks[i];
         let attribute = currentElement.getAttribute('href')
