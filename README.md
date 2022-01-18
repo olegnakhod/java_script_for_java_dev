@@ -14,5 +14,7 @@
     <li>
         <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-06">Lesson 06</a> [Функціональний та прототипний стиль ООП]</li> 
      <li>
-        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/Homework/Lesson-07">Lesson 07</a> [Основи Client JS]</li>
+        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/lesson-07/Lesson-07">Lesson 07</a> [Основи Client JS]</li>
+         <li>
+        <a href="https://github.com/olegnakhod/JavaScriptForJavaDev/tree/lesson-08/Lesson-08">Lesson 08</a> [Події (Events)]</li>
 </ul>
