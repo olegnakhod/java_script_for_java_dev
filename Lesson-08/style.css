@@ -1,0 +1,8 @@
+.hider{
+    display: none;
+}
+
+.separator{
+    border-top: solid;
+    margin: 10px 0px;
+}
