@@ -1,5 +1,6 @@
 # JavaScript
-<h6>My homeworks</h6>
+<h4>My homeworks</h4>
+<h6>It is homework for the Logos IT academy on the cousre "Java Developer" from the block "Java Script for the Java Developer"</h6>
 <ul>
     <li>
         <a href="https://github.com/olegnakhod/java_script_for_java_dev/tree/all_homework/Lesson-01">Lesson 01</a> [Базові конструкції JavaScript]</li>
